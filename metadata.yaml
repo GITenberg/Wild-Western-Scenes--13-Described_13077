@@ -1,0 +1,33 @@
+_repo: Wild-Western-Scenes--13-Described_13077
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jones, J. B. (John Beauchamp)
+    aliases:
+    - Shortfield, Luke
+    - Jones, John Beauchamp
+    birthdate: 1810
+    deathdate: 1866
+    gutenberg_agent_id: '4820'
+    url: http://www.gutenberg.org/2009/agents/4820
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Boone, Daniel, 1734-1820 -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Wilderness areas -- Fiction'
+title: "Wild Western Scenes\r\nA Narrative of Adventures in the Western Wilderness,\
+  \ Wherein the\r\nExploits of Daniel Boone, the Great American Pioneer are Particularly\r\
+  \nDescribed"
+url: http://www.gutenberg.org/ebooks/13077
